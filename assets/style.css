@@ -180,6 +180,10 @@ footer span {
 }
 
 @media (max-width: 600px) {
+    * {
+        font-size: 9px;
+    }
+    
     .container {
         max-width: 100%;
     }
