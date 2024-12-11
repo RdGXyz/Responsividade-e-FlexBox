@@ -181,7 +181,7 @@ footer span {
 
 @media (max-width: 600px) {
     * {
-        font-size: 9px;
+        font-size: 4px;
     }
     
     .container {
